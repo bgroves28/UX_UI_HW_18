@@ -5,6 +5,13 @@ header {
   font-family: 'Open Sans';
 }
 
+div .flexContainer {
+display: flex;
+width: 33%;
+padding: 1%;
+}
+
+
 .inline-block {
   display: inline-block;
   vertical-align: top;
